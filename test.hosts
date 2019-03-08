@@ -1,0 +1,34 @@
+# rubyfish
+# Ease Asia
+172.24.133.227 egcs-mdm.beta.101.com
+172.24.133.227 egcs-thumb-mdm.beta.101.com
+172.24.133.227 egcstask-mdm.beta.101.com
+172.24.133.227 egcs-offline-mdm.beta.101.com
+172.24.133.227 egcs-offline-task-mdm.beta.101.com
+172.24.133.227 egcs-convertor-mdm.beta.101.com
+172.24.133.227 egcs-convertor-task-mdm.beta.101.com
+172.24.133.227 egcs-identify-mdm.beta.101.com
+172.24.133.227 101uccenter-mdm.beta.101.com
+172.24.133.227 virtual-organization-mdm.beta.101.com
+172.24.133.227 uc-eoms-mdm.beta.101.com
+172.24.133.227 uc-captcha-mdm.beta.101.com
+172.24.133.227 uc-personal-web-mdm.beta.101.com
+172.24.133.227 uc-idpoollog-mdm.beta.101.com
+172.24.133.227 uc-bts-mdm.beta.101.com
+172.24.133.227 uc-bts-admin-mdm.beta.101.com
+172.24.133.227 uc-sms-mdm.beta.101.com
+172.24.133.227 uc-orgadmin-web-mdm.beta.101.com
+172.24.133.227 uc-authentication-mdm.beta.101.com
+172.24.133.227 organization-proxy-mdm.beta.101.com
+172.24.133.227 cscommon-mdm.beta.101.com
+172.24.133.227 uc-task-mdm.beta.101.com
+172.24.133.227 uc-third-authentication-mdm.beta.101.com
+172.24.133.227 rbac-mdm.beta.101.com
+172.24.133.227 rbac-admin-mdm.beta.101.com
+172.24.133.227 role-admin-mdm.beta.101.com
+172.24.133.227 mdm-backend.beta.101.com
+172.24.133.227 mdm-front.beta.101.com
+172.24.133.227 mdm-push.beta.101.com
+172.24.133.89 mdm.pushaccess.egypt.sdp
+# West USA
+# 47.99.165.31 dns.rubyfish.cn
